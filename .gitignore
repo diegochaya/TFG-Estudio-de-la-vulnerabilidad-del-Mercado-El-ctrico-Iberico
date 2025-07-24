@@ -1,0 +1,8 @@
+# Cachés de Python
+__pycache__/
+*.py[cod]
+
+# Datos pesados
+datos/*.csv
+datos/*.xls
+datos/*.xlsx
